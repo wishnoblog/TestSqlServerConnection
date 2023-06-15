@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "測試資料庫連線", "測試資料庫連線\測試資料庫連線.csproj", "{2A80207D-A3D0-4E89-8BC1-F0FE0B4996C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A80207D-A3D0-4E89-8BC1-F0FE0B4996C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A80207D-A3D0-4E89-8BC1-F0FE0B4996C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A80207D-A3D0-4E89-8BC1-F0FE0B4996C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A80207D-A3D0-4E89-8BC1-F0FE0B4996C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD5901FA-1CC3-46F3-B992-C8DE24CBD1FA}
+	EndGlobalSection
+EndGlobal
